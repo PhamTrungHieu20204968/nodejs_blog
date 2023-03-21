@@ -20,7 +20,8 @@
   "homepage": "https://github.com/PhamTrungHieu20204968/nodejs_blog#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "express-handlebars": "^7.0.2"
+    "express-handlebars": "^7.0.2",
+    "mongoose": "^7.0.2"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
